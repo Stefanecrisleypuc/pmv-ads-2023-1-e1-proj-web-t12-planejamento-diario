@@ -18,6 +18,7 @@ o	Objetivo Geral
 -	Funciona como um check list
 -	Aumenta a produtividade e disciplina
 -	Auxilio na saúde mental
+- Auxiliar na otimiza do tempo  
 
  •	Objetivos específicos
 -	A criação de um planner para o auxílio no planejamento de metas e objetivos pessoais/profissionais, podendo assim ter na palma da mão as atividades diárias a serem concluídas, tendo todo o seu dia organizado.
