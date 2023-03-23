@@ -14,7 +14,7 @@ Descreva também o contexto em que essa aplicação será usada, se  houver: emp
 
 o	Objetivo Geral
 -	Organizar ideias (a escrita ajuda na organização)
--	Anotar e planejar tarefas
+-	Anotar e planejar tarefaffas
 -	Funciona como um check list
 -	Aumenta a produtividade e disciplina
 -	Auxilio na saúde mental
