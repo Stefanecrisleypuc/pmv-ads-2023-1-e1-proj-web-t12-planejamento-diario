@@ -39,6 +39,9 @@ para evoluir na carreira
 demandas de seus clientes
 - Estudantes universitários que naturalmente precisam organizar seus trabalhos e manter matéria em dia para garantir bons resultados
 - Pais e mães que, além de terem que administrar tarefas domésticas, precisam organizar as atividades de seus filhos
+- Pessoas  que possuem Transtorno de Dèficit de Atençâo e Hiperatividade (TDAH), ou simplesmente dèficit de aten como è mais conhecido.
+- Pessoas com depress tamb tem problemas para se concentraaa e decodifi infor mais complex.
+
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
